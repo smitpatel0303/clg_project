@@ -1,0 +1,55 @@
+.Smart{
+    line-height: 17pt;
+    text-align: center;
+    padding-top: 10%;
+    font-family: 'Kiwi Maru', serif;
+}
+.Agriculture{
+    line-height: 17pt;
+    text-align: center;
+    padding-bottom: 30%;
+    font-family: 'Kiwi Maru', serif;
+}
+
+#link{
+    color: aliceblue;
+    font-family: 'Kiwi Maru', serif;
+    padding-top: 10%;
+   
+}
+
+.bar{
+    background-color: #28346d;
+}
+.heading{
+    padding-top: 7%;
+}
+.mapouter{
+    position:relative;
+    text-align:right;
+    height:458px;
+    width:492px;
+}
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+    height:458px;
+    width:492px;
+    border-radius: 10%;
+}
+
+#cards{
+    padding-top: 5%;   
+}
+
+#colm{
+    padding-right: 4%;
+    padding-top: 20px;
+    padding-left: 60px;
+    font-family: 'Kiwi Maru', serif; 
+    font-weight: 900;
+}
+
+#main{
+    font-family: 'Kiwi Maru', serif; 
+}
